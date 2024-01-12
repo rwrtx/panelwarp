@@ -17,7 +17,7 @@ wget --no-check-certificate "https://raw.githubusercontent.com/rwrtx/panelwarp/m
 
 
 ```
-wget -q --no-check-certificate "https://raw.githubusercontent.com/wrtx/panelwarp/main/ulangi.sh" -O /root/ulangi && chmod +x /root/ulangi
+wget -q --no-check-certificate "https://raw.githubusercontent.com/rwrtx/panelwarp/main/ulangi.sh" -O /root/ulangi && chmod +x /root/ulangi
 ```
 
 ## Belikan Saya Kopi Hitam & Rokok Sebatang
