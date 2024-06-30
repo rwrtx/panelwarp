@@ -30,5 +30,8 @@ echo -e "Memulai Installasi Speedtest"
 wget --no-check-certificate "https://raw.githubusercontent.com/rwrtx/panelwarp/main/speedtest" -O /usr/bin/speedtest && chmod +x /usr/bin/speedtest
 clear
 echo -e "Installasi Speedtest Selesai"
+sleep 2
+echo -e "Memulai Ulang"
+wget -q --no-check-certificate "https://raw.githubusercontent.com/rwrtx/panelwarp/main/ulangi.sh" -O /root/ulangi && chmod +x /root/ulangi
 sleep 3
 }
